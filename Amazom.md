@@ -14,3 +14,6 @@ review product
 return product
 cancel order
 view order
+share a product link
+payment methods
+upload images and find similar products
